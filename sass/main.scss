@@ -1,5 +1,4 @@
 
-
 @import "abstract/variables";
 @import "abstract/functions";
 @import "abstract/mixins";
@@ -12,8 +11,15 @@
 @import "base/utilities.scss";
 
 @import "components/buttons.scss";
+@import "components/composition.scss";
 
 @import "layout/header";
+@import "layout/grid";
+
+
+@import "pages/home";
+
+
 
 
 
